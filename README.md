@@ -1,0 +1,3 @@
+On Task3 :
+
+we dont use database connection due to problem in my local machine so we use static json in $scope.items variable
